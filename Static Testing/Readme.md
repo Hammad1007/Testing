@@ -11,3 +11,4 @@ Static testing is a software testing method that examines a program -- along wit
 
 **Explanation:**
 
+Static testng is done when there is no need to run the code and we only edit the file or proof read it to remove any kind of errors such as syntax errors, unused libraries, unused variables, uninitialized variables etc.
