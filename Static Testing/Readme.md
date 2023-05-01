@@ -13,8 +13,6 @@ Static testing is a software testing method that examines a program -- along wit
 
 Static testng is done when there is no need to run the code and we only edit the file or proof read it to remove any kind of errors such as syntax errors, unused libraries, unused variables, uninitialized variables etc.
 
-## Library
-
 ### Library used: Flake8
 
 **Details:**
@@ -31,3 +29,10 @@ Flake8 checks for a wide range of issues, including:
     Poorly formatted docstrings
 
 By running Flake8 on your Python code, you can quickly identify potential issues and improve the overall quality of your codebase. Flake8 can be integrated into a variety of development workflows, including continuous integration and code review processes, to ensure that code quality remains high throughout the development cycle.
+
+### How to install?
+
+To install, use the following command:
+```python
+pip install flake8
+```
